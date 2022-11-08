@@ -1,5 +1,5 @@
-Milk
-Eggs
-Carrots
-Apples
-Avacados
+1. Milk
+2. Eggs
+3. Carrots
+4. Apples
+5. Avacados
