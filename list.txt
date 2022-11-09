@@ -1,5 +1,5 @@
-Milk
-Eggs
-Carrots
+(h) Milk
+(h) Eggs
+(l) Carrots
 Apples
 Avacados
