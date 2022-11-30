@@ -1,5 +1,6 @@
-1. (h) Milk
-2. (h) Eggs
-3. (l) Carrots
-4. Apples
-5. Avacados
+1. (High) Milk
+2. (High) Eggs
+3. (Low) Carrots
+4. (Low) Apples
+5. (Critical) Avocados
+6. (High) Bread
